@@ -1,0 +1,46 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.com.oliversys.babetteunhas.MainActivity">
+
+    <item android:id="@+id/menu_perfil"
+        android:icon="@drawable/ic_perfil"
+        android:title="@string/title_section0"
+        app:showAsAction="withText|ifRoom" />
+
+    <item android:id="@+id/menu_favoritos"
+        android:icon="@drawable/ic_favoritos"
+        android:title="@string/title_section1"
+        app:showAsAction="withText|ifRoom" />
+
+    <item android:id="@+id/menu_buscar"
+        android:icon="@drawable/ic_busca"
+        android:title="@string/title_section2"
+        app:showAsAction="withText|ifRoom" />
+
+    <item android:id="@+id/menu_dicas"
+        android:icon="@drawable/ic_dicas"
+        android:title="@string/title_section3"
+        app:showAsAction="withText|ifRoom" />
+
+    <item android:id="@+id/menu_promo"
+        android:icon="@drawable/ic_promo"
+        android:title="@string/title_section4"
+        app:showAsAction="withText|ifRoom" />
+
+    <item android:id="@+id/menu_blog"
+        android:icon="@drawable/ic_blog"
+        android:title="@string/title_section5"
+        app:showAsAction="withText|ifRoom" />
+
+    <item android:id="@+id/menu_fale"
+        android:icon="@drawable/ic_mail"
+        android:title="@string/title_section6"
+        app:showAsAction="withText|ifRoom" />
+
+    <item android:id="@+id/menu_config"
+        android:icon="@drawable/ic_config"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>

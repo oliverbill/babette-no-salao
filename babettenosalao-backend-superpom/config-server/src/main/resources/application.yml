@@ -1,0 +1,18 @@
+discovery:
+enabled: true
+serviceId: babette-config-service
+  
+logging:
+level:
+com.netflix.discovery: 'OFF'
+org.springframework.cloud: 'DEBUG'
+    
+eureka:
+instance:
+hostname: localhost
+leaseRenewalIntervalInSeconds: 10
+client:
+registerWithEureka: false
+fetchRegistry: false
+serviceUrl:
+defaultZone: http://${eureka.instance.hostname}:8761/eureka/

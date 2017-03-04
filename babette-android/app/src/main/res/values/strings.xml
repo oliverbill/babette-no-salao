@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Babettes World UNHAS</string>
+
+    <string name="action_settings">Configuracoes</string>
+    <string name="drawer_open">Menu Lateral Aberto</string>
+    <string name="drawer_close">Menu Lateral Fechado</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="title_section0">Perfil do Usuário</string>
+    <string name="title_section1">Favoritos</string>
+    <string name="title_section2">Buscar Profissionais</string>
+    <string name="title_section3">Dicas e Tendências</string>
+    <string name="title_section4">Promoções</string>
+    <string name="title_section5">Blog da Babette</string>
+    <string name="title_section6">Fale Conosco</string>
+
+    <string name="nome_empresa">OLIVERSYS - Soluções Mobile</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="title_activity_main_activity2">MainActivity2Activity</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
