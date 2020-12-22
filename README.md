@@ -1,6 +1,6 @@
 # babettenosalao
 
-Android app and its JEE backend composed of a microservice and a REST API.
+Beauty shop marketplace platform composed by an Android app and its JEE backend (microservice and a REST API).
 
 <b><u>Main Goal</u></b>
 
